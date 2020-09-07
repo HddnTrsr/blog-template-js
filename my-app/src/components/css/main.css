@@ -21,3 +21,7 @@
 .row-content-width-fitcontent{
     width: fit-content;
 }
+
+.layout-1-center{
+    padding: 5vmin;
+}
