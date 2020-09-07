@@ -1,0 +1,23 @@
+.heading-main{
+    text-align: center;
+    position: center;
+    color:  #282c34;
+}
+
+.intro-para{
+    margin-left: 10vh;
+    margin-right: 10vh;
+    text-align: center;
+    position: center;    
+}
+
+.intro-section{
+    background-color: lightblue;
+    padding-top: 8vh;
+    padding-bottom: 8vh;
+    color : black;
+}
+
+.row-content-width-fitcontent{
+    width: fit-content;
+}
