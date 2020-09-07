@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: white;
+  padding-bottom: 5px;
+  
+}
+
+
+.header-sample{
+    background-color: #282c34;
+    padding : 2vh; 
+}
+
+
+.logo-props{
+    width: 8vh;
+    height: 10vh;    
+     object-position: center;
+}
+
+.text-sample{
+    color: white;
+    font-size: 6vmin;
+    /* padding-top :;
+    padding-bottom : 2vmin; */
+}
+
+.col-width-logo{
+    width: fit-content;
+}

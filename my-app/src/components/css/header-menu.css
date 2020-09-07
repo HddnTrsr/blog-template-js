@@ -1,0 +1,17 @@
+.App-header-menu{
+    padding: 2px;
+    text-align: center;
+}
+.App-header-menu li{
+    display: inline;
+    padding-inline-start: 10px;
+    padding-inline-end: 10px;
+    position: center;
+    font-size: 20px;
+    
+}
+.Hovering-effect{
+    text-decoration: none;
+    text-decoration-color:#282c34;
+    text-shadow: 1px 1px #282c34;
+    }
